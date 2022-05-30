@@ -1,1 +1,1 @@
-# contador
+# just a counter
